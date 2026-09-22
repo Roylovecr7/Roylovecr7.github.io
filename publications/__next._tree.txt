@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0a.~ssnf2oqmj.css","style"]
+:HL["/covers/transportation-research-part-f.jpg","image"]
+:HL["/covers/hcii-2025-lncs-15776.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"publications","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5UAfI_-GN7XEURDR65V3C"}
